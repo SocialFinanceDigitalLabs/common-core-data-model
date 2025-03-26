@@ -35,4 +35,8 @@ Social Finance were asked to undertake this project in the Southwest, with the i
 
 2. Plan for a pilot with four local authorities in the Southwest to work out how to implement this standard, without material operational or financial impact. 
 
-3. Design an approach to information sharing across the region using existing staff and systems, using Somerset as the data hub. 
+3. Design an approach to information sharing across the region using existing staff and systems, using Somerset as the data hub.
+
+**Reference Materials:**
+
+* [Data Standards Blueprint](./Data%20Collection%20Spreadsheet%20-%20RCC%20v2.pdf)
