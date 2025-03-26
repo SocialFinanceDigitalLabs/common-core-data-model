@@ -1,3 +1,5 @@
+<img alt="Social Finance Logo" src="https://www.socialfinance.org.uk/assets/logos/_fitSmall/Social-Finance-logo.svg?v=1667809892" width="200" height="200" />
+
 **Common Core Data Model**
 
 This entity relationship diagram (ERD) represents the proposed data collection method for the Southwest Sufficiency Project, which aims to standardize children's data collection across the region. Additionally, this ERD can serve as a framework to link with data collected by other local authorities, fostering collaboration and consistency in data management practices across the region.
